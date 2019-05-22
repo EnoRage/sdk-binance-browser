@@ -1,0 +1,3 @@
+[submodule "javascript-sdk"]
+	path = javascript-sdk
+	url = https://github.com/binance-chain/javascript-sdk
