@@ -10,6 +10,6 @@
   "author": "nk@buttonwallet.com",
   "license": "MIT",
   "dependencies": {
-    "@binance-chain/javascript-sdk": "^2.13.1"
+    "@binance-chain/javascript-sdk": "2.13.1"
   }
 }
