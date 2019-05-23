@@ -5,7 +5,7 @@
   "main": "bnbBrowser.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "browserify -o --standalone bnbBrowser toBrowser.js > ../src/bnbBrowser.js"
+    "start": "browserify -o --standalone bnbBrowser toBrowser.js > ../sdk/bnbBrowser.js"
   },
   "author": "nk@buttonwallet.com",
   "license": "MIT",
