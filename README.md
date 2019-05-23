@@ -1,4 +1,4 @@
-#Binance chain SDK for frontend
+# Binance chain SDK for frontend
 
 This is an open-source library that is going to help developers working with Binance chain on JS in browser.
 
